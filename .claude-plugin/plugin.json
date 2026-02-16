@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "author": {
     "name": "CrashBytes",
-    "url": "https://crashbytes.ai"
+    "url": "https://crashbytes.com"
   },
-  "homepage": "https://crashbytes.ai/tutorials/building-claude-code-skills-scrum-master-anthropic-2026",
+  "homepage": "https://crashbytes.com/tutorials/building-claude-code-skills-scrum-master-anthropic-2026",
   "repository": "https://github.com/CrashBytes/claude-role-skills",
   "license": "Apache-2.0",
   "keywords": [
