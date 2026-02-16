@@ -79,7 +79,7 @@ claude-role-skills/
 ## Tutorial
 
 Learn how to build Claude Code skills from scratch:
-[Building Claude Code Skills: A Scrum Master Skill for Anthropic's Official Repo](https://crashbytes.com/tutorials/building-claude-code-skills-scrum-master-anthropic-2026)
+[Building Claude Code Skills: A Scrum Master Skill for Anthropic's Official Repo](https://crashbytes.ai/tutorials/building-claude-code-skills-scrum-master-anthropic-2026)
 
 ## License
 
