@@ -1,0 +1,24 @@
+{
+  "name": "role-based-skills",
+  "description": "7 role-based professional skills for software teams: Scrum Master, Product Owner, Product Manager, UX/UI Developer, InfoSec Engineer, DevOps Engineer, and Software Migration Engineer. Each skill includes MCP integration support for Jira, Azure DevOps, GitHub, GitLab, Linear, and Trello.",
+  "version": "1.0.0",
+  "author": {
+    "name": "CrashBytes",
+    "url": "https://crashbytes.ai"
+  },
+  "homepage": "https://crashbytes.ai/tutorials/building-claude-code-skills-scrum-master-anthropic-2026",
+  "repository": "https://github.com/CrashBytes/claude-role-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "scrum",
+    "product-owner",
+    "product-manager",
+    "ux-ui",
+    "infosec",
+    "devops",
+    "migration",
+    "agile",
+    "skills",
+    "team-roles"
+  ]
+}
